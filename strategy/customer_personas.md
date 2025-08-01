@@ -38,10 +38,10 @@ This document defines the key customer personas for IndustryVault's mortgage ind
 
 ---
 
-### 2. **Operations Director (Mike)**
+### 2. **Operations Executive (Mike)**
 
 **Demographics**
-- Role: Director of Mortgage Operations or VP of Operations
+- Role: Executive of Mortgage Operations or VP of Operations
 - Experience: 8-15 years in mortgage operations
 - Organization: All target segments
 - Age: 35-50
@@ -102,10 +102,10 @@ This document defines the key customer personas for IndustryVault's mortgage ind
 
 ---
 
-### 4. **Technology Director (David)**
+### 4. **Technology Executive (David)**
 
 **Demographics**
-- Role: Director of Technology or CTO
+- Role: Executive of Technology or CTO
 - Experience: 8-15 years in technology leadership
 - Organization: All target segments
 - Age: 35-50
@@ -134,10 +134,10 @@ This document defines the key customer personas for IndustryVault's mortgage ind
 
 ---
 
-### 5. **Business Development Manager (Lisa)**
+### 5. **Business Development Executive (Lisa)**
 
 **Demographics**
-- Role: Business Development Manager or VP of Business Development
+- Role: Business Development Executive or VP of Business Development
 - Experience: 5-12 years in mortgage business development
 - Organization: Non-bank lenders, some regional banks
 - Age: 30-45
